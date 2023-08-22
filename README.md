@@ -3,7 +3,7 @@ Sync calibre library using rclone
 
 
 
-```
+```bash
 local_calibre_dir="$HOME/my-b2-calibre-library"
 remote_b2_bucket="b2:my-b2-calibre-library"
 
